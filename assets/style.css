@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', sans serif;
+    background-color: #f3f8ec;
+}
+
+
+
+.top-container {
+    background-color: #f3f8ec;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+h1 {
+    color: #f38181;
+    font-size: 562.5%;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+
+}
+
+.intro {
+    color: #45d4ba;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    width: 50%;
+    margin: 0 auto; 
+}
+
+h2 {
+    color: #f38181;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: #f38181;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+
+p {
+    color: #45d4ba;
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 150px;
+    top: 100px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 175px;
+    bottom: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    margin: 50px auto 50px auto;
+}
+
+
+.me {
+    float: left;
+    border-radius: 50%;
+    margin-right: 30px;
+    width: 20%;
+}
+
+hr {
+    width: 75px;
+    border-top: 5px dotted #ffdb58;
+}
+
+.skills {
+    margin: 50px auto; 
+}
+
+ .tech {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.agile {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.contact-title {
+    padding-top: 30px;
+}
+
+.contact-me {
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    padding-top: 30px;
+    margin: 50px auto 50px auto;
+    font-family: 'Roboto', sans-serif;
+
+}
+.btn {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.footer-link {
+    color: #ffdb58
+
+}
+
+
